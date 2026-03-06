@@ -1,0 +1,17 @@
+mensaje=ABCDE
+len_original=5
+padded_hex=4142434445030303
+ultimo_byte=3
+recuperado=ABCDE
+
+mensaje=ABCDEFGH
+len_original=8
+padded_hex=41424344454647480808080808080808
+ultimo_byte=8
+recuperado=ABCDEFGH
+
+mensaje=ABCDEFGHIJ
+len_original=10
+padded_hex=4142434445464748494a060606060606
+ultimo_byte=6
+recuperado=ABCDEFGHIJ

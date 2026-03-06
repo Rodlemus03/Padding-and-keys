@@ -1,0 +1,7 @@
+tamano_bytes=10485760
+cbc_segundos=0.055393
+ctr_segundos=0.014798
+cbc_cipher_len=10485776
+ctr_cipher_len=10485760
+cbc_recuperado_ok=True
+ctr_recuperado_ok=True

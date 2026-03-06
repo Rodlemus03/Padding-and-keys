@@ -1,0 +1,3 @@
+key_hex=9a8fa36614694255
+ciphertext_hex=d0d62e549dd156393568909d6e115aa45895357e491a5bf247040239ff077c139954fb1239c0ef18168c6e727b964e712a38bf5415be1565
+plaintext=Buenas buenas, laboratorio de cifrado por bloques

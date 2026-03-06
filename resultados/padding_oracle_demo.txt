@@ -1,0 +1,4 @@
+iv_hex=b5a64362bbe02caa0dc7c10a0c28cb58
+ciphertext_hex=ae301e6e3983fd4c2b9882b59b87553d9aa49afea1086f5af87b2a7cf1a4331f208ff5814641f6038726e30afde1f2e3
+plaintext_recuperado=CBC vulnerable al padding oracle
+recuperado_ok=True
