@@ -1,0 +1,20 @@
+El prompt que utilicé, no se lo pedí directamente a chatGPT, si no a CODEX, pero no me deja compartir la conversacion como la he adjuntado anteriormente. 
+
+
+El prompt fue:
+    Con el contexto que tienes en este repositorio, necesito que me ayudes en 2 cosas puntuales. 
+    1. A revisar la logica de los cifrados, ver que se esté cifrando bien, que haya implementado las cosas tal y como son. Solo dame un si o un no, no me des tanta explicacion. 
+    2. Necesito que me ayudes a armar un README.md con las instrucciones puntuales para correr el programa. Necesito que en el readme pongas las imagenes de tux como resultado. 
+
+
+Respuesta: 
+    Si está bien tu lógica, además:
+    Reescribí README.md punto por punto según la rúbrica:
+    Instalación/uso
+    Ejemplos por algoritmo
+    Respuestas de análisis
+    Proceso de testing
+    Comparación visual ECB vs CBC lado a lado
+    Explicación byte por byte de padding
+    Recomendaciones de modos + ejemplos en 2 lenguajes
+    Sección CTR y Padding Oracle (extra)
